@@ -3,7 +3,7 @@
 문명6 이미지
 
 <img src="./img/코로나.jpg">
-![](.img코로나jpg)
+![](./img/코로나jpg)
 
 <br><br>
 
