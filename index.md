@@ -4,11 +4,11 @@
 
 <img src="./img/코로나.jpg">
 
-![](./img/코로나.jpg)
 
 <br><br>
 
 - Civilization
+<img src="./img/문명6지도.png">
 
  - 나라마다 "Civilization" 이있고 그 문명을 발전시키는 게임
 
@@ -24,7 +24,7 @@
 
 ## 국가   
 
-<img src="./국가.png">
+<img src="./img/국가.jpg">
 
 - 기술 & 정책
 
@@ -40,8 +40,7 @@
 
 <br>
 
-<img src="./특수지구들.png">
-
+<img src="./img/특수지구.PNG">
 <br><br>
 
 - 각나라마다 고유의 특수지구가 있음 
@@ -57,7 +56,7 @@
 
 <br>
 
-<img src="./01.지구온난화.gif" width="30%"> <img src="./페스트균.jpg" width="50%">
+<img src="./img/지구온난화.gif" width= "30%"> <img src="./img/페스트균.jpg" width= "50%">
 
 -2가지:  바이러스 창궐(턴제한), 환경오염도에 따른 자연현상부여 
 
