@@ -1,12 +1,5 @@
 # 메인 컨셉
 
-문명6 이미지
-
-<img src="./img/코로나.jpg">
-
-
-<br><br>
-
 - Civilization
 <img src="./img/문명6지도.png">
 
