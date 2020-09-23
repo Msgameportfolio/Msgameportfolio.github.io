@@ -91,3 +91,11 @@ ex)화산폭팔, 바이러스 창궐시 대처요령습득
 - 문명6게임 모티브 전체적인 틀 소개 영상  
 
 [G스토리](https://www.youtube.com/watch?v=pxVOMXOqW_U)
+
+- VR모드 관련 영상자료  
+
+1. [지하철 화재 vr](https://www.youtube.com/watch?v=pxVOMXOqW_U)
+2. [태풍 체험 vr](https://www.youtube.com/watch?v=pxVOMXOqW_U)
+
+
+
