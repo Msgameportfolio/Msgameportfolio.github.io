@@ -89,7 +89,7 @@ ex)화산폭팔, 바이러스 창궐시 대처요령습득
 # [관련동영상]
 
 <img src="./img/문명6.PNG" width="50%">  
-- 문명6게임 모티브 전체적인 틀 소개 영상  
+-  문명6게임 모티브 전체적인 틀 소개 영상  
 
 [G스토리](https://www.youtube.com/watch?v=pxVOMXOqW_U)
 
