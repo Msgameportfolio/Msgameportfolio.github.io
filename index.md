@@ -86,7 +86,7 @@ ex)화산폭팔, 바이러스 창궐시 대처요령습득
 
 <br><br>
 
-# [관련동영상]
+# [Related Videos]
 
 <img src="./img/문명6.PNG" width="50%">  
 
