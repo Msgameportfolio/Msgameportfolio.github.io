@@ -94,8 +94,8 @@ ex)화산폭팔, 바이러스 창궐시 대처요령습득
 
 - VR모드 관련 영상자료  
 
-1. [지하철 화재 vr](https://www.youtube.com/watch?v=pxVOMXOqW_U)
-2. [태풍 체험 vr](https://www.youtube.com/watch?v=pxVOMXOqW_U)
+1. [지하철 화재 vr](https://www.youtube.com/watch?v=mdhnwzniqRI)
+2. [태풍 체험 vr](https://www.youtube.com/watch?v=47-mvQBqV2I)
 
 
 
