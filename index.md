@@ -83,3 +83,10 @@ vr기기를 통해서 국가운영과 동시에 각종 이벤트등을 심감나
 ex)화산폭팔, 바이러스 창궐시 대처요령습득
 
 
+<br><br>
+
+# 관련동영상
+
+<img src="./img/문명6.PNG" width="50%">  
+문명6게임 모티브 전체적인 틀 소개 영상  
+[Google](https://youtube.com, "watch?v=pxVOMXOqW_U")
