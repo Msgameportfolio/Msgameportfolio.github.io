@@ -1,7 +1,10 @@
 # Main Concept
 
+
+<img src="./img/광대로그인화면.png" width="50%">  
+
+<br>
 >  Civilization
-<img src="./img/문명6지도.png" width="50%">
 
  - 나라마다 "Civilization" 이있고 그 문명을 발전시키는 게임
 
