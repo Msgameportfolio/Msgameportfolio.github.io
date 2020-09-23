@@ -1,7 +1,7 @@
 # 메인 컨셉
 
 - Civilization
-<img src="./img/문명6지도.png">
+<img src="./img/문명6지도.png" width="30%">
 
  - 나라마다 "Civilization" 이있고 그 문명을 발전시키는 게임
 
