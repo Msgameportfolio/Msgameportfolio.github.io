@@ -1,6 +1,7 @@
 ##Index
 
-[Main Concept](#-Main-Concept)
+1.[Main Concept](#-Main-Concept)
+2.[메커니즘](#메커니즘)
 
 
 
