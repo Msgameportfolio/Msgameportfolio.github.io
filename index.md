@@ -202,7 +202,7 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 |2|군사유닛|<img src="./img/군사유닛.PNG" width= "20%">|  
 |3|종교유닛|<img src="./img/종교유닛.PNG" width= "20%">|  
 |4|정찰유닛|<img src="./img/정찰유닛.PNG" width= "20%">|  
-|5|맵|<img src="./img/문명6지도.png" width= "30%">|  
+|5|맵|<img src="./img/문명6지도.png" width= "45%">|  
 |6|자원|<img src="./img/말자원.PNG" width= "20%"> <img src="./img/철자원.PNG" width= "20%">| 
 
 
