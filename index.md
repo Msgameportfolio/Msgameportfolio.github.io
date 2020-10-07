@@ -198,7 +198,7 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 
 |연변|오브젝트 이름|오브젝트 이미지|  
 |------|---|---|
-|1|건설자, 개척자|<img src="./img/건설자.PNG" width= "20%"> <img src="./img/개척자.PNG" width= "20%">|  
+|1|건설자,  개척자|<img src="./img/건설자.PNG" width= "20%"> <img src="./img/개척자.PNG" width= "20%">|  
 |2|군사유닛|<img src="./img/군사유닛.PNG" width= "20%">|  
 |3|종교유닛|<img src="./img/종교유닛.PNG" width= "20%">|  
 |4|정찰유닛|<img src="./img/정찰유닛.PNG" width= "20%">|  
