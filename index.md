@@ -361,7 +361,7 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 
 <br><br>  
 
-> 상태 뽑아 보기  
+>상태 뽑아 보기
 
 
 1) 전투 유닛  
@@ -378,7 +378,6 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 2)비전투 유닛  
 
 |현상태|전이상태|전이조건|  
-
 |;---;|:---|-----|  
 |정상|이동|tile.translate(moveDir.normalized * movespeed * Time.deltaTime, space.Self);|  
 |이동|부상|currentHealthPoints = currentHealthPoints - x;|  
