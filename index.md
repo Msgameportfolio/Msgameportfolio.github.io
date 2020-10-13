@@ -367,7 +367,7 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 1) 전투 유닛  
 
 |현상태|전이상태|전이조건|  
-|;---;|:---|-----|  
+|;---;|:---|---|  
 |전투|부상|currentHealthPoints = currentHealthPoints - x;|  
 |부상|회복|currentHealthPoints = currentHealthPoints  + x;|  
 |정상|전투|public Combat unit attack(GameObject unit, GameObject enemy)  ....|  
@@ -378,7 +378,7 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 2)비전투 유닛  
 
 |현상태|전이상태|전이조건|  
-|;---;|:---|-----|  
+|;---;|:---|---|  
 |정상|이동|tile.translate(moveDir.normalized * movespeed * Time.deltaTime, space.Self);|  
 |이동|부상|currentHealthPoints = currentHealthPoints - x;|  
 |부상|회복|currentHealthPoints = currentHealthPoints  + x;
