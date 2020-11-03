@@ -1,0 +1,45 @@
+
+Menu
+시작화면, 게임화면, 점수화면, 총 3개의 화면이 있다. => 50%
+
+시작화면에는 Single play, Multi play, Game option, Tutorial라는 버튼 4개가있다. =>100%
+
+
+
+Single play
+- Single play 클릭시 New game, load game 이 있다. =>80%
+
+- 유닛&ai 생성 및 좌표이동 and 공격가능 =>100%
+
+
+
+Multi play
+- 멀티플레이 화면 & 구동 => 0%
+
+
+
+맵제작
+
+-> 판게아 =>50%  
+
+
+
+main music 제작 => 50%
+
+
+
+국가 제작
+
+-> 한국 =>0%
+
+
+
+설명:
+
+유닛생성, 유닛 좌표이동 / ai 생성 및 좌표이동 and 공격까지 프로그래밍
+
+화면제작은 start menu 보안 , Single play 제작, game option 제작
+
+맵제작은 판게아를 제작할 예정이지만 필요하면 자료끌어올예정
+국가제작은 한국을 제작할 예정
+mainmusic은 자료선별해서 넣을예정
