@@ -61,5 +61,5 @@ mainmusic은 자료선별해서 넣을예정
 <br><br>
 
 # 동영상  
-[2주차영상](https://gifs.com/gif/ms-w02-photofolio-2xV2pP)
+[2주차영상](https://j.gifs.com/2xV2pP.gif)
 
