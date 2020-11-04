@@ -4,7 +4,8 @@
 - 게임화면, 점수화면, 게임옵션 총 4개의 화면 제작완료하기
 -single play 모드에서 new game, load game 코딩완료하기
 
-2. mult play 구현
+2. multi play 구현
+
 
 3. 공격모션 effect 구현
 
