@@ -654,69 +654,100 @@ game play 화면 상단에는 각 문명의 과학,문화,신앙,금 산출량�
 턴제 구현x, 서바이벌 디펜스 장르
 
 
-## Scene
-시작화면, 게임화면, 점수화면, 총 3개의 화면이 있다.
+## Scene  
 
-시작화면에는 Single play, Game option, Tutorial  총 버튼 3개가있다.
+시작화면, 게임화면, 점수화면, 총 3개의 화면이 있다.  
 
-## SinglePlay
 
-- Player Controller  part 
+시작화면에는 Single play, Game option, Tutorial  총 버튼 3개가있다.  
+
+
+## SinglePlay  
+
+
+- Player Controller  part  
+
 walk, Run, Jump, Crouch, speed, Attack  (Function implementation)
 
-- Camera part
+- Camera part  
+
  main cam, weapon cam
 
-- Weapon part
+- Weapon part  
 
--Controller
- Hand , HandController
- Gun, GunController
- Axe, AxeController
- pickAxe, pickAxeController
+ Hand , HandController  
+ 
+ Gun, GunController  
+ 
+ Axe, AxeController  
+ 
+ pickAxe, pickAxeController  
+ 
 
 총구 , Reload, FineSightMode   
-Hit, Hit_Effect 구현
 
-- Sound part
+Hit, Hit_Effect 구현  
+
+
+- Sound part  
+
  Bullet firing_ sound
  Axe_Hit_sound
  pickAxe _Hit _sound
 
-- effect
+- effect  
+
 Muzzle flash, Muzzle flash inner
-Melee weapon flash,  Melee weapon flash inner
+Melee weapon flash,  Melee weapon flash inner  
 
-2. animal Part(ai)
 
- animal Controller part
+2. animal Part(ai)  
+
+
+ animal Controller part  
+ 
  Move, Attack  (animator Function implementation)
 
 
-3. Ground part (16:10 화면비율 기준)
-판게아, 대륙맵 구현
+3. Ground part (16:10 화면비율 기준)  
 
-4. item part
-- item manager
+판게아, 대륙맵 구현  
+
+
+4. item part  
+
+- item manager  
+
 bonFire , meat, water, firewood 
 
-5. UI part
-- 총알 갯수 UI 구현 
-- Player의 Food, water, Hp 상태 구현
-- 낮,밤 전환 구현
+5. UI part  
 
-6. System part
+- 총알 갯수 UI 구현  
+
+- Player의 Food, water, Hp 상태 구현  
+
+- 낮,밤 전환 구현  
+
+
+6. System part  
+
 > json
 - Save&Load 구현
 
-## Game option
-- volume setting
-main sound, sub sound  Ui 구현
-- sound manager
-main sound, sub sound  기능 구현
+## Game option  
+
+- volume setting  
+
+main sound, sub sound  Ui 구현  
+
+- sound manager  
+
+main sound, sub sound  기능 구현  
 
 
-## Tutorial 
+
+## Tutorial  
+
 1단계: 인터페이스 설명&조작  
 
 2단계: 게임 규칙 설명  
