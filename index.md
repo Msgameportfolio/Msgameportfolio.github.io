@@ -665,60 +665,56 @@ game play 화면 상단에는 각 문명의 과학,문화,신앙,금 산출량�
 ## SinglePlay  
 
 
-- Player Controller  part  
+> Player Controller  part  
 
-walk, Run, Jump, Crouch, speed, Attack  (Function implementation)
+- walk, Run, Jump, Crouch, speed, Attack  (Function implementation)
 
-- Camera part  
+> Camera part  
 
- main cam, weapon cam
+- main cam, weapon cam
 
-- Weapon part  
+>  Weapon part  
 
- Hand , HandController  
+ - Hand , HandController  
  
- Gun, GunController  
+ - Gun, GunController  
  
- Axe, AxeController  
+ - Axe, AxeController  
  
- pickAxe, pickAxeController  
+ - pickAxe, pickAxeController  
  
+ - Reload, FineSightMode   
 
-총구 , Reload, FineSightMode   
+> Sound part  
 
-Hit, Hit_Effect 구현  
+ - Bullet firing_ sound
+ - Axe_Hit_sound
+ - pickAxe _Hit _sound
 
+> effect  
 
-- Sound part  
-
- Bullet firing_ sound
- Axe_Hit_sound
- pickAxe _Hit _sound
-
-- effect  
-
-Muzzle flash, Muzzle flash inner
-Melee weapon flash,  Melee weapon flash inner  
-
+- Muzzle flash, Muzzle flash inner
+- Melee weapon flash,  Melee weapon flash inner  
+- Hit, Hit_Effect 구현 
 
 2. animal Part(ai)  
 
 
- animal Controller part  
+ > animal Controller part  
  
- Move, Attack  (animator Function implementation)
+ - Move, Attack  (animator Function implementation)
 
 
 3. Ground part (16:10 화면비율 기준)  
 
-판게아, 대륙맵 구현  
+- 판게아, 대륙맵 구현  
 
 
 4. item part  
 
-- item manager  
+> item manager  
 
-bonFire , meat, water, firewood 
+- bonFire , meat, water, firewood 
 
 5. UI part  
 
