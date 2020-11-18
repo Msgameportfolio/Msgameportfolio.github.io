@@ -42,5 +42,13 @@
 - bulid, instantiate 함수 이용  
 
 
+# 동영상  
+<video controls width="640" height="480">
+
+    <source src="file/wo3/3일차.mp4" type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+
+</video>
 
 
