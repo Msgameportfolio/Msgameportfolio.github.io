@@ -30,7 +30,8 @@
 
 # 개발 진행도  
 [2주차](file/wo2.md)
-
+[3주차](file/wo2.md)
+[4주차](file/wo2.md)
     
 
 
