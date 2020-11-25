@@ -678,11 +678,11 @@ game play 화면 상단에는 각 문명의 과학,문화,신앙,금 산출량�
 
 >  Weapon part  
 
- ~~Hand , HandController ~~ 
+ ~~Hand , HandController~~ 
  
-~~Gun, GunController ~~ 
+~~Gun, GunController~~ 
  
-~~Axe, AxeController ~~ 
+~~Axe, AxeController~~ 
  
  ~~pickAxe, pickAxeController~~  
  
