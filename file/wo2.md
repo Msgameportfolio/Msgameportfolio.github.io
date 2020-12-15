@@ -542,7 +542,7 @@ item manager
 
 # 동영상  
 [2주차영상](https://j.gifs.com/2xV2pP.gif)  
-[3주차영상](<iframe src='//gifs.com/embed/3-ROEN1R' frameborder='0' scrolling='no' width='1920px' height='1052px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>)  
+[3주차영상](https://j.gifs.com/ROEN1R.gif)  
 [4주차영상]()  
 [5주차영상]()  
 [6주차영상]()  
