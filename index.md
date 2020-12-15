@@ -743,23 +743,13 @@ game play 화면 상단에는 각 문명의 과학,문화,신앙,금 산출량�
 
 ## Game option  
 
-- volume setting  
+~~volume setting~~  
 
 ~~main sound, sub sound  Ui 구현~~  
 
-- sound manager  
+~~sound manager~~  
 
 ~~main sound, sub sound  기능 구현~~  
-
-
-
-## Tutorial  
-
-1단계: 인터페이스 설명&조작  
-
-2단계: 게임 규칙 설명  
-
-3단계: 내부플레이  
 
 
 
