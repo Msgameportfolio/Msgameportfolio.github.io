@@ -114,7 +114,7 @@ mainmusic은 자료선별해서 넣을예정
 
 요구사항 (6주)
 
-Scene
+> Scene
 
 시작화면, 게임화면, 점수화면, 총 3개의 화면이 있다.
 
@@ -208,7 +208,7 @@ bonFire , meat, water, firewood
 
 
 
-UI part
+> UI part
 
 총알 갯수 UI 구현
 
@@ -218,7 +218,7 @@ Player의 Food, water, Hp 상태 구현
 
 
 
-System part
+> System part
 
 
 
@@ -238,7 +238,7 @@ main sound, sub sound 기능 구현
 
 
 
-Tutorial
+> Tutorial
 
 1단계: 인터페이스 설명&조작
 
@@ -251,14 +251,7 @@ Tutorial
 3단계: 내부플레이
 
 
-
-
-
-목표
-
-
-
-프로그래밍
+> 프로그래밍
 
 
 
@@ -334,7 +327,7 @@ Hit, Hit_Effect 구현
 
 
 
-그래픽
+> 그래픽
 
 
 
@@ -386,11 +379,11 @@ Hit, Hit_Effect 구현
 <br> <br>
 # 5주차 목표  
 
-요구사항 (6주)
+ 요구사항 (6주)
 
 
 
-Ground part -> 100% (대륙맵은 error 코드가 떠서 아직 삽입 불가)
+> Ground part -> 100% (대륙맵은 error 코드가 떠서 아직 삽입 불가)
 
 
 
@@ -400,7 +393,7 @@ Ground part -> 100% (대륙맵은 error 코드가 떠서 아직 삽입 불가)
 
 
 
-item part -> 70%
+> item part -> 70%
 
 
 
@@ -414,7 +407,7 @@ item manager
 
 
 
-UI part -> 100%
+> UI part -> 100%
 
 
 
@@ -426,7 +419,7 @@ UI part -> 100%
 
 
 
-Tutorial -> 50%
+> Tutorial -> 50%
 
 
 
@@ -460,7 +453,7 @@ Tutorial -> 50%
 
 
 
-menu part -> 오류수정 x
+> menu part -> 오류수정 x
 
 
 
@@ -476,7 +469,7 @@ menu part -> 오류수정 x
 
 
 
-build part 
+> build part 
 
 
 
@@ -496,7 +489,7 @@ build part
 
 
 
-System part -> 90%
+> System part -> 90%
 
 
 
@@ -512,7 +505,7 @@ System part -> 90%
 
 
 
-Tutorial   -> 구현 x
+> Tutorial   -> 구현 x
 
 
 
