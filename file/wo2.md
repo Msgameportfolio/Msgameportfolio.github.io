@@ -544,8 +544,8 @@ item manager
 [2주차영상](https://j.gifs.com/2xV2pP.gif)  
 [3주차영상](https://j.gifs.com/ROEN1R.gif)  
 [4주차영상](https://j.gifs.com/k8p1oX.gif)  
-[5주차영상]()  
-[6주차영상]()  
+[5주차영상](https://j.gifs.com/r8z1Y6.gif)  
+[6주차영상](https://j.gifs.com/lxq1pl.gif)  
 
 
 
