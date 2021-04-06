@@ -470,38 +470,56 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 
 <br>
 
-1. Scean 기능 요구사항
--  메뉴화면, 게임화면, 엔딩화면 총 3개의 화면이 있어야한다.
--  메뉴화면에는 Game start, Setting, Tutorial 3개의 버튼이 있어야한다.
--  Game scean에서 save&load 기능이 있어야한다.
--  Setting Scean 안에는 소리설정 기능이 있어야한다.  
+Scean 기능 요구사항
+메뉴화면, 게임화면, 엔딩화면 총 3개의 화면이 있어야한다.
+메뉴화면에는 Game start, Setting, Tutorial 3개의 버튼이 있어야한다.
+Game scean에서 save&load 기능이 있어야한다.
+Setting Scean 안에는 소리설정 기능이 있어야한다.
 
-<br>
+Characher 기능 요구사항
+characher 방향전환 기능이 있어야한다.
+characher jump 기능이 있어야한다.
+characher dash 기능이 있어야한다.
+characher 시선전환 기능이 있어야한다.
+characher Rigidbody 기능이 있어야한다.
+characher Attack 기능이 있어야한다.
+characher weapon upgrade 기능이 있어야한다.
+characher armor upgrade 기능이 있어야한다.
+characher Stats창이 있어야한다
+characher inventory 기능이 있어야한다.
+characher death & resurrection 기능이 있어야한다.
 
-2. Characher 기능 요구사항
-- characher 방향전환 기능이 있어야한다.
-- characher jump 기능이 있어야한다.
-- characher dash 기능이 있어야한다.
-- characher 시선전환 기능이 있어야한다.
-- characher Rigidbody 기능이 있어야한다.
-- characher Attack 기능이 있어야한다.
-- characher weapon upgrade 기능이 있어야한다. 
-- characher armor upgrade 기능이 있어야한다.  
-- characher Stats창이 있어야한다
-- characher inventory 기능이 있어야한다.
-- characher death & resurrection 기능이 있어야한다.  
+Monster 기능 요구사항
+Monster 방향전환 기능이 있어야한다.
+Monster jump 기능이 있어야한다.
+Monster 기능이 있어야한다.
+Monster Rigidbody 기능이 있어야한다.
+Monster Attack 기능이 있어야한다.
+Monster death 기능이 있어야한다.  
 
-<br>
 
-3. Monster 기능 요구사항
-- Monster 방향전환 기능이 있어야한다.
-- Monster  jump 기능이 있어야한다.
-- Monster  기능이 있어야한다.
-- Monster  Rigidbody 기능이 있어야한다.
-- Monster  Attack 기능이 있어야한다.
-- Monster  weapon upgrade 기능이 있어야한다. 
-- Monster  armor upgrade 기능이 있어야한다.  
-- Monster death 기능이 있어야한다.  
+
+
+4. boss 기능 요구사항 
+- boss 2 단장 + 최종보스 총 3가지의 보스가 있어야한다.  
+
+
+- 1단장의 컨셉은 화남을 가지고 있으며 지형은 불에 그흘린 지형이며 2가지의 패턴을 가지고 있다.  
+- 
+
+- 1단장의 패턴: bullet 양방향으로 흩뿌리기(10초간격), 지형 불태우기  
+
+
+- 2단장의 컨셉은 슬픔을 가지고 있으며 지형은 얼어붙은 지형이며 2가지의 패턴을 가지고 있다.  
+
+
+- 2단장의 패턴: bullet 양방향으로 흩뿌리기(10초간격), 지형 얼어붙게 하기  
+
+
+- 최종보스(광대)의 컨셉은 혼란을 가지고 있으며 지형은 전체적으로 어두운배경의 컨셉을 지니며 2가지의 패턴을 가지고 있다.  
+
+- 최종보스의 패턴: bullet 양방향으로 흩뿌리기 , 암흑상태(실명)이 있다.  
+
 
 <br><br>  
 
