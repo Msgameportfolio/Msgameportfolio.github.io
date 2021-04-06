@@ -470,32 +470,56 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 
 <br>
 
-Scean 기능 요구사항
-메뉴화면, 게임화면, 엔딩화면 총 3개의 화면이 있어야한다.
-메뉴화면에는 Game start, Setting, Tutorial 3개의 버튼이 있어야한다.
-Game scean에서 save&load 기능이 있어야한다.
-Setting Scean 안에는 소리설정 기능이 있어야한다.
+- Scean 기능 요구사항  
 
-Characher 기능 요구사항
-characher 방향전환 기능이 있어야한다.
-characher jump 기능이 있어야한다.
-characher dash 기능이 있어야한다.
-characher 시선전환 기능이 있어야한다.
-characher Rigidbody 기능이 있어야한다.
-characher Attack 기능이 있어야한다.
-characher weapon upgrade 기능이 있어야한다.
-characher armor upgrade 기능이 있어야한다.
-characher Stats창이 있어야한다
-characher inventory 기능이 있어야한다.
-characher death & resurrection 기능이 있어야한다.
+- 메뉴화면, 게임화면, 엔딩화면 총 3개의 화면이 있어야한다.  
 
-Monster 기능 요구사항
-Monster 방향전환 기능이 있어야한다.
-Monster jump 기능이 있어야한다.
-Monster 기능이 있어야한다.
-Monster Rigidbody 기능이 있어야한다.
-Monster Attack 기능이 있어야한다.
-Monster death 기능이 있어야한다.  
+- 메뉴화면에는 Game start, Setting, Tutorial 3개의 버튼이 있어야한다.  
+
+- Game scean에서 save&load 기능이 있어야한다.  
+
+- Setting Scean 안에는 소리설정 기능이 있어야한다.  
+
+
+- character 기능 요구사항  
+
+- character 방향전환 기능이 있어야한다.  
+
+- character jump 기능이 있어야한다.  
+
+- character dash 기능이 있어야한다.  
+
+- character 시선전환 기능이 있어야한다.  
+
+- character Rigidbody 기능이 있어야한다.  
+
+- character Attack 기능이 있어야한다.  
+
+- character weapon upgrade 기능이 있어야한다.  
+
+- character armor upgrade 기능이 있어야한다.  
+
+- character Stats창이 있어야한다. 
+
+- character inventory 기능이 있어야한다.  
+  
+- character death & resurrection 기능이 있어야한다.  
+
+
+- Monster 기능 요구사항  
+
+- Monster 방향전환 기능이 있어야한다.  
+
+- Monster jump 기능이 있어야한다.  
+
+- Monster 기능이 있어야한다.  
+
+- Monster Rigidbody 기능이 있어야한다.  
+
+- Monster Attack 기능이 있어야한다.  
+
+- Monster death 기능이 있어야한다.  
+ 
 
 
 
