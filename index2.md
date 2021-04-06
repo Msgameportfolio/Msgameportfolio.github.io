@@ -470,7 +470,7 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 
 <br>
 
-- Scean 기능 요구사항  
+> Scean 기능 요구사항  
 
 - 메뉴화면, 게임화면, 엔딩화면 총 3개의 화면이 있어야한다.  
 
@@ -481,7 +481,7 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 - Setting Scean 안에는 소리설정 기능이 있어야한다.  
 
 
-- character 기능 요구사항  
+> character 기능 요구사항  
 
 - character 방향전환 기능이 있어야한다.  
 
@@ -506,7 +506,7 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 - character death & resurrection 기능이 있어야한다.  
 
 
-- Monster 기능 요구사항  
+> Monster 기능 요구사항  
 
 - Monster 방향전환 기능이 있어야한다.  
 
@@ -524,7 +524,7 @@ war sound: 긴장감 넘치는 일렉음악을 삽입
 
 
 
-4. boss 기능 요구사항 
+>  boss 기능 요구사항 
 - boss 2 단장 + 최종보스 총 3가지의 보스가 있어야한다.  
 
 
