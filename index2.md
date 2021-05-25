@@ -75,7 +75,8 @@
 
 > character
 
-<img src="./img/고스톱.png" width="50%">
+![image](https://user-images.githubusercontent.com/70992943/119424946-6df18200-bd41-11eb-905c-feb907ea4904.png)
+
 
 - 캐릭터마다의 스토리 도입 (ex 승리시 광대의 하수인이 들고있는 지도의 조작을 얻게됨)
 
@@ -92,7 +93,8 @@
 
 <br>
 
-<img src="./img/테트리스.jpg" width="50%">
+![image](https://user-images.githubusercontent.com/70992943/119424958-747ff980-bd41-11eb-8cae-d9177691c27d.png)
+
 <br><br>
 
 테트리스 게임안의 요소  
