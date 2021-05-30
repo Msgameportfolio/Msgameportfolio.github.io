@@ -96,15 +96,61 @@
 ![image](https://user-images.githubusercontent.com/70992943/119424958-747ff980-bd41-11eb-8cae-d9177691c27d.png)
 
 <br><br>
-
-테트리스 게임안의 요소  
+ 
 
 -  총 6가지의 monster 구현 예정 (1학기때에는 2~3개 구현예정)
 
 -  Raycast를 이용한 방향전환 및 낙하방지
 
 -  Monster마다 attack Animation을 2가지로 계획예정 
--> 1.  Body attack, Bullet attack
+-> 1.  Body attack, Bullet attack  
+
+> Trap
+
+<br>
+
+![image](https://user-images.githubusercontent.com/70992943/120089583-dc19b880-c136-11eb-808f-b18b621174bd.png)
+
+
+<br><br>
+
+
+
+-  Spike를 통해서 피격시 hp -1 효과 구현
+
+-  +1, -1 item을 먹을시  시간 증감 발생
+
+-  톱니, 화염지대는 추후 개발예정  
+
+
+> Item
+
+<br>
+
+![image](https://user-images.githubusercontent.com/70992943/120089611-08cdd000-c137-11eb-8d67-f2d7755f46aa.png)
+
+
+
+<br><br>
+
+
+
+각 Coin마다의 점수가 존재  
+
+
+- Bronze coin = 50  
+
+
+- Silver coin = 100  
+
+
+- Gold coin = 300  
+
+- 추후 hp 포션등 개발 예정
+
+
+
+ 
 
  
 
