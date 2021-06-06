@@ -1,54 +1,141 @@
-# 프로그래밍
+# 1주차 목표  
 
-1. scene 작업
-- 게임화면, 점수화면, 게임옵션 총 4개의 화면 제작완료하기
--single play 모드에서 new game, load game 코딩완료하기
-
-2. multi play 구현
+<br>  
 
 
-3. 공격모션 effect 구현
+1. 카드게임 아이템  
 
-4. 플레이어 & ai 건설 기능 구현
+- 프로그램: class 함수통해서 item Script 작성
 
-======================================================
+- 배경: 하스스톤류 배경삽입 예정
 
-그래픽 부분
-
-1. 맵제작
--> 판게아 맵 완성 & 대륙맵 틀짜기
+<br><br>  
 
 
-오디오 부분
+> 결과  
 
-1. 메인 music 삽입 완성  &    서브bgm제작or삽입
+- 프로그램: class 함수통해서 item Script 작성 - 70%  
 
+- 배경: 하스스톤류 배경삽입 예정 - 90%  
 
+==================================================
 
-<br><br>
+# 2주차 목표 
 
-설명
-
-1.scene 작업  
-- scene 작업에서 게임화면, 점수화면 + 게임옵션화면까지 만든후 이후에 싱글모드에서 세이브, 로드기능 구현예정  
-
-2.multi play 구현
-- package에 있는  Multiplayer Networking High Level install후 작업  
-
-3. 공격모션 effect 구현  
-- 자료수집후 구현  
-
-4. 플레이어 & ai 건설 기능 구현  
-- bulid, instantiate 함수 이용  
+이번주 주된 목표  
 
 
-# 동영상  
-<video controls width="640" height="480">
+- 깃허브  100 % 완성  
+ 
 
-    <source src="file/wo3/3일차.mp4" type="video/mp4">
+-> 1학기 + 12주차 계획  
 
-    Sorry, your browser doesn't support embedded videos.
 
-</video>
 
+
+프로그래밍  
+
+
+- 테트리스 , 화투게임(고스톱) 구현  
+
+
+
+
+배경삽입: 기존과 동일하나 효과 추가예정  
+
+
+
+
+주인공 캐릭터  및 광대(enemy)캐릭터  만들기  
+
+
+
+
+
+> 결과 
+
+1. Github -> 90%
+
+https://msgameportfolio.github.io/index2
+
+2. 배경삽입 ->50%
+
+3. 주인공 캐릭터 만들기 -> 50%
+
+============================================
+
+# 3주차 목표  
+
+3주차 ~ 4주차 목표
+
+3주차 – menu scean, map1 scean, map2 scean 완성목표
+
+4주차 – 캐릭터 5종 틀 완성목표(남,여주인공 / 광대 / 제 1,2 단장)
+
+
+Scean 기능 요구사항
+메뉴화면, 게임화면, 엔딩화면 총 3개의 화면이 있어야한다.
+메뉴화면에는 Game start, Setting, Tutorial 3개의 버튼이 있어야한다.
+Characher 기능 요구사항
+
+characher 방향전환 기능이 있어야한다.
+characher jump 기능이 있어야한다.
+characher dash 기능이 있어야한다.
+characher 시선전환 기능이 있어야한다.  
+
+> 결과
+
+3주차 – menu scean, tutorial scean, single play scean 완성목표  -> menu scean, tutorial scean 완료  single play scean 미완성 (70% 구현완료) 
+
+4주차 – 캐릭터 5종 틀 완성목표(남,여주인공 / 광대 / 제 1,2 단장) -> 임시용 캐릭터 선정(남주) 아직선정못함
+
+
+Scean 기능 요구사항
+메뉴화면, 게임화면, 엔딩화면 총 3개의 화면이 있어야한다. -> 메뉴,게임화면 제작완료 / 엔딩화면은 구상만 해놓은상태(50%)
+메뉴화면에는 Game start, Setting, Tutorial 3개의 버튼이 있어야한다. -> 완료
+Characher 기능 요구사항
+
+characher 방향전환 기능이 있어야한다. -> 100%
+characher jump 기능이 있어야한다. ->90% 오류수정해야됨
+characher dash 기능이 있어야한다. -> 미구현
+characher 시선전환 기능이 있어야한다. -> 100%
+
+========================================================================
+
+#4주차 목표  
+
+
+4~5주차 – 캐릭터 5종 틀+살 완성목표 , 몬스터 틀+살 완성목표(근접, 원거리)
+
+
+
+핵심
+
+1. Characher 기능 요구사항
+
+characher Rigidbody 기능이 있어야한다.
+characher Attack 기능이 있어야한다.
+characher death & resurrection 기능이 있어야한다.
+
+2. Monster 기능 요구사항
+
+Monster 방향전환 기능이 있어야한다.
+Monster jump 기능이 있어야한다.
+Monster 기능이 있어야한다.
+Monster Rigidbody 기능이 있어야한다.
+Monster Attack 기능이 있어야한다.
+
+> 결과  
+1. Characher 기능 요구사항
+
+characher Attack 기능이 있어야한다. -> 100%
+characher death & resurrection 기능이 있어야한다. -> 0% 몬스터 코드작업으로 인해 뒷선으로 밀림
+
+2. Monster 기능 요구사항
+
+Monster 방향전환 기능이 있어야한다. -> 100%
+Monster jump 기능이 있어야한다. -> 30% 코드 오류수정중
+Monster 기능이 있어야한다. -> 100%
+Monster Rigidbody 기능이 있어야한다. -> 100%
+Monster Attack 기능이 있어야한다. -> 30% 코드 오류수정중
 
